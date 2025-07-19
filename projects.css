@@ -1,0 +1,25 @@
+.projects-index {
+  margin-top: 1.5rem;
+}
+
+.project {
+  margin-bottom: 1.5rem;
+}
+
+.date {
+  display: inline-block;
+  font-weight: bold;
+  color: #555;
+  margin-right: 0.5rem;
+  width: 3rem;
+}
+
+.project-details {
+  display: inline;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
+  }
+}
